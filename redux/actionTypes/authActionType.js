@@ -1,0 +1,10 @@
+export const SIGNIN = "SIGNIN";
+export const SIGNUP = "SIGNUP";
+export const LOGOUT = "LOGOUT";
+export const REDIRECT = "REDIRECT";
+export const TAB_CHANGE = "TAB_CHANGE";
+export const PAYMENT_METHOD="PAYMENT_METHOD"
+export const EVENT_DETAILS="EVENT_DETAILS"
+export const ERROR_MESSAGE="ERROR_MESSAGE"
+export const ORG_TAB="ORG_TAB"
+export const EVENT_ID="EVENT_ID"
