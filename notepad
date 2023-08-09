@@ -1,0 +1,21 @@
+redux
+1st we have to define actionType in authAction.js
+2nd we have to call that action type in authReducer
+3rd we have to call the dispatch where ever we requiuired
+
+
+// import { useDispatch, useSelector } from 'react-redux';
+// const dispatch = useDispatch();
+// dispatch({
+//     type: SIGNIN,
+//     payload: {
+//       accessToken,
+//     },
+//   });
+// dispatch({
+//     type: SET_MODAL,
+//     payload: {
+//       modal: 'AddedCompetitor',
+//       eventId: modal.eventId,
+//     },
+//   });
